@@ -1,6 +1,0 @@
-yjklikjhgfddfghj
-
-
-ggggggggggt
-
-print('cat')
